@@ -1,8 +1,8 @@
-.env
-app.db
-Procfile
-requirements.txt
-migrations
-.vscode
-__pycache__
-venv
+.env/
+app.db/
+Procfile/
+requirements.txt/
+migrations/
+.vscode/
+__pycache__/
+venv/
